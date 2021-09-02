@@ -5,6 +5,8 @@ Software Engineering, Summer 2021 course midterm assignment lab project.
 
 ID: 183-16-360
 
+Recorded screen video: https://drive.google.com/open?id=1NLC5oLnRBTgHqIDcOl8czlkS_R9CFQ4R
+
 Took help, ideas to complete my project from these projects:
 1. https://github.com/Shubham-Saha/V.A.B-Voice-Assistant-Bangla-
 2. https://github.com/bradtraversy/alexis_speech_assistant
